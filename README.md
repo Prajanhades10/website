@@ -169,11 +169,13 @@ Publish the website in the given URL.
       <footer>
         &copy; 2025 Wakanda Table | Designed and Developed by <span style="color:red">Sanjeev Kumar</span>
       </footer>
+
 # OUTPUT:
-![Screenshot 2025-04-24 192048](https://github.com/user-attachments/assets/145323ae-45e9-43c7-bb71-bab942f1d02c)
-![Screenshot 2025-04-24 192359](https://github.com/user-attachments/assets/5cf169c4-ebb2-4159-9296-5f3ffabac982)
-![Screenshot 2025-04-24 192206](https://github.com/user-attachments/assets/e8f7881d-08e9-4210-be89-16db9dc6bd91)
-![Screenshot 2025-04-24 192122](https://github.com/user-attachments/assets/6762ac65-4380-4348-be97-330650ab5bb9)
+![437055010-5cf169c4-ebb2-4159-9296-5f3ffabac982](https://github.com/user-attachments/assets/112165d9-5e88-422c-8a1e-7772975ef4cc)
+![437055006-e8f7881d-08e9-4210-be89-16db9dc6bd91](https://github.com/user-attachments/assets/f23badbc-d3cb-42ec-90eb-3af9f5079f30)
+![437055019-145323ae-45e9-43c7-bb71-bab942f1d02c](https://github.com/user-attachments/assets/70124a97-0104-41d3-b97c-1f3732f6eb58)
+![437054971-6762ac65-4380-4348-be97-330650ab5bb9](https://github.com/user-attachments/assets/3d3d16ad-8394-4f59-9066-a420901cc377)
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
